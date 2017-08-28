@@ -1,0 +1,24 @@
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+a          o                   a
+ah h h h h           h h h h h a
+al l l l l l l l l l l l l l l a
+ab b b b b b b b b b b b b b b a
+ah h h h g g g g g g g g h h h a
+ai i i i i i i i i i i i i i i a
+ab b b b b b b b b b b b b b b a
+ah f f f f f f f f f f f f f h a
+a  h                       h   a
+a    h                   h     a
+a  h                        h  a
+a    h                    h    a
+a      h                h      a
+a                              a
+a                              a
+a                              a
+a                              a
+a                              a
+a                              a
+a                              a
+a                              a
+a                              a
+a                              a
